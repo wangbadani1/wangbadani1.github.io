@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "5837e1485743958849d41265",
+  "owner": "wangbadani1",
+  "repo": "wangbadani1.github.io",
+  "title": "官方发布页",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "40868b675492e72cacf612d4",
+      "a": "纷达网络(Fenda)",
+      "b": "加速器官网",
+      "entity": "纷达网络(Fenda)",
+      "brand": "纷达网络(Fenda)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c9fc9747d233ef255762173c292bce269a47e3861ed7a89a1b20d283cfba5a83",
+      "content": {
+        "primary_entity": "纷达网络(Fenda)",
+        "keyword1": "纷达网络(Fenda)",
+        "keyword2": "加速器官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统下载对应客户端，登录账号后导入订阅链接即可。",
+          "AI_CLIENTS_TITLE": "客户端选择与下载",
+          "AI_CLOSING_TEXT": "选适合日常流量和设备数量的套餐，下载客户端后导入订阅开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，连接纷达网络",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版订阅，支持多台设备同时在线，按客户端指南配置订阅后即可使用。",
+          "AI_FEATURES_INTRO": "围绕流量、设备与订阅周期，快速匹配合适的版本。",
+          "AI_FEATURES_TITLE": "选择适合的订阅方式",
+          "AI_FEATURE_TEXT_1": "每月100GB至1000GB流量，按日常用量选择，年付更划算。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_2": "支持3至20台设备同时在线，手机、平板、电脑共享订阅。",
+          "AI_FEATURE_TITLE_2": "按设备定版本",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付优惠，可随使用周期调整套餐。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "先确认套餐与设备需求，再依客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "纷达网络提供多档订阅套餐，覆盖个人设备与团队使用。按流量和设备数选择版本，在对应客户端导入订阅即可连接。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量",
+          "AI_HIGHLIGHT_2": "最多20台设备同时在线",
+          "AI_HIGHLIGHT_3": "IPLC专线优化游戏体验",
+          "AI_PLANS_INTRO": "基础版¥15/月，旗舰版¥35/月，团队版¥85/月，年付分别¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "对比套餐与价格",
+          "AI_STEP_TEXT_1": "根据每月流量和设备数量挑选基础版、旗舰版或团队版。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_2": "确认所用设备系统，查看对应客户端的适配要求与安装方式。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅链接，按文档完成配置后连接使用。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "纷达网络多设备订阅",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。按年付分别约 ¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_2": "挑选客户端主要看设备系统，Windows、macOS、Android、iOS 各有对应客户端，路由器也可通过插件或旁路由方式配置。具体适配以客户端文档为准。",
+          "AI_FAQ_ANSWER_3": "通常复制订阅链接后导入客户端即可。不同客户端导入位置略有差异，建议先查看对应客户端帮助文档再操作。",
+          "AI_FAQ_ANSWER_4": "可以。旗舰版支持 5 台设备同时在线，团队版支持 20 台设备，手机、电脑与平板可同时连接使用。",
+          "AI_FAQ_ANSWER_5": "按年付比按月付费更划算，基础版约 ¥150/年、旗舰版约 ¥350/年、团队版约 ¥850/年。流量需求不大选基础版，追求专线与流媒体体验选旗舰版，多人多设备选团队版。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐的流量和设备数量有什么区别？",
+          "AI_FAQ_QUESTION_2": "怎样挑选适合自己设备的客户端？",
+          "AI_FAQ_QUESTION_3": "拿到订阅链接后怎么导入？",
+          "AI_FAQ_QUESTION_4": "可以在多台设备上同时使用吗？",
+          "AI_FAQ_QUESTION_5": "按月付还是按年付更划算？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e6183fd3988005d036c5cffeecde75f5ccb3ca61687bbfa7da93752b26da92ec",
+    "sitemap.xml": "c7c44998b9c68d769991d78e26f73014d3fb5799b31beb7e6f9140f5331c1838",
+    "robots.txt": "e34a95581e6d6332c43316f4f23f3eb6c3527547ca8ea9c162a4a3772cc97a9e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "a8ae250b72a37e6272c710ef3f790412e73588c9469b556d652eaeb5fe39097a"
+}
